@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="bressenham_paint/bressenham_paint.vcxproj" Id="c2f4fc84-dcb5-4887-ba38-51243f07d2b4" />
+</Solution>
